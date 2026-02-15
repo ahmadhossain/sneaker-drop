@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+*.js.map
+*.d.ts
+!jest.config.js
+.DS_Store
+coverage/
+*.log
+.idea/
+.vscode/
+PLAN.md
