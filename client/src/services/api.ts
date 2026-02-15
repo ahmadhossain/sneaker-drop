@@ -1,5 +1,4 @@
 import axios from 'axios'
-import 'vite/client'
 import type { User, Drop, Reservation } from '../types'
 
 const api = axios.create({
